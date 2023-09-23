@@ -1,3 +1,1 @@
-# MyGame 123
-abc
-//
+# MyGame
